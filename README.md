@@ -1,10 +1,13 @@
 # IncidentOS
 
-IncidentOS 是一个证据优先的多 Agent 事故响应指挥台。产品自带两个确定性事故，无需 API Key 或外部服务即可完成调查、反证、人工审批、恢复验证和复盘导出。
+IncidentOS 是一个证据优先的多 Agent 事故响应指挥台，使用 DeepSeek Harness 插件运行时交付 Agent 能力。产品自带两个确定性事故，无需 API Key 或外部服务即可完成调查、反证、人工审批、恢复验证和复盘导出。
 
-## 体验入口
+## 在线体验
 
-开发环境运行 `npm run dev` 后访问 `http://127.0.0.1:4173/`。产品本身提供完整引导，用户体验不依赖本文件。
+- GitHub Pages：https://zihaowangcs.github.io/incidentos/
+- 本地开发：运行 `npm run dev` 后访问 `http://127.0.0.1:4173/`
+
+产品本身提供完整引导，用户体验不依赖本文件。
 
 ## 验证
 
