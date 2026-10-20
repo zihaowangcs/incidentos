@@ -7,7 +7,7 @@
     "dev": "vite --host 127.0.0.1",
     "build": "tsc -b && vite build && npm run plugin:build",
     "plugin:build": "tsc -p plugins/incidentos/tsconfig.json",
-    "plugin:pack": "cd plugins/incidentos && npm pack --dry-run --cache /Users/naplescode/Desktop/dshstudy/.npm-cache",
+    "plugin:pack": "cd plugins/incidentos && npm pack --dry-run --cache ../../.npm-cache",
     "test": "vitest run",
     "verify": "npm run test && npm run build && npm run plugin:pack"
   },
