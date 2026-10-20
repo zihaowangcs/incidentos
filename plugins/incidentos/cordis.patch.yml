@@ -1,0 +1,4 @@
+# IncidentOS DSH bundle patch: contributes the investigation capability.
+- insert:
+    - id: incidentos-agent
+      name: 'incidentos-dsh-plugin'
