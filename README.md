@@ -9,6 +9,12 @@ IncidentOS 是一个证据优先的多 Agent 事故响应指挥台，使用 Deep
 
 产品本身提供完整引导，用户体验不依赖本文件。
 
+## 课程提交文档
+
+- [Harness 能力与 DSH 特性完整说明](docs/COURSE-REPORT.md)
+- [三分钟演示脚本](docs/demo/three-minute-script.md)
+- [完整验证记录](docs/harness/verification.md)
+
 ## 验证
 
 ```bash
